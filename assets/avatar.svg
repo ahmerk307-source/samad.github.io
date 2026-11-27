@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-label="Abstract avatar illustration">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a5f36c"/><stop offset="1" stop-color="#54b8a0"/></linearGradient><linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#344e69"/><stop offset="1" stop-color="#172235"/></linearGradient></defs>
+<circle cx="200" cy="210" r="180" fill="url(#bg)" opacity=".14"/>
+<path d="M63 440c8-104 61-154 137-154s129 50 137 154" fill="url(#shirt)"/>
+<path d="M140 167c0-65 26-100 65-100 47 0 67 38 67 101v40c0 58-31 91-70 91s-62-34-62-91z" fill="#b97856"/>
+<path d="M131 174c-9-77 26-132 89-132 64 0 88 49 72 132-9-24-25-39-43-50-22 17-66 24-112 19z" fill="#172235"/>
+<path d="M163 208q15 10 29 0M225 208q15 10 29 0" stroke="#172235" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M188 251q17 13 35 0" stroke="#8c4c43" stroke-width="6" fill="none" stroke-linecap="round"/>
+<path d="M170 290l31 38 31-38" fill="#f0c6a6"/>
+<path d="M139 440l30-112 32 28 32-28 29 112" fill="#243b55"/>
+<circle cx="311" cy="101" r="17" fill="#a5f36c"/><path d="M311 75v52M285 101h52" stroke="#101827" stroke-width="4" stroke-linecap="round"/>
+</svg>

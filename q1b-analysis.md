@@ -1,0 +1,7 @@
+# Q1(b) — GitHub Copilot analysis (draft: 150–200 words)
+
+**Important:** This is a model draft. The assignment asks for prompts you actually used and one real correct and incorrect result. Replace the bracketed details with your own experience before submitting; do not claim you tested something you did not test.
+
+GitHub Copilot acted as an AI coding assistant during the development of my portfolio. I used prompts such as: (1) “[paste your prompt for replacing the template text]”; (2) “[paste your prompt for adding the projects and contact sections]”; and (3) “[paste your prompt for making the layout responsive on phones].” One result it got right was [describe a change you checked and confirmed worked]. However, it got [describe a specific incorrect suggestion or bug] wrong, which I noticed when [explain how you tested it]. This showed me that generated code can look convincing without being correct.
+
+Copilot saved time on repetitive HTML and CSS work and helped me explore alternative layouts. It also introduced risks: incorrect code may break a page or create accessibility problems; generated material may have licensing or attribution conditions; and publishing personal details can expose privacy. A professional should treat AI output as a suggestion, not authority. They should inspect the code, test it on different screen sizes, check security and accessibility, verify licences, and publish only information they intend to make public. Human responsibility remains with the developer.
